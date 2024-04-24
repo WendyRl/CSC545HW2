@@ -19,6 +19,8 @@ Pros: Provides a structured and efficient way to store and retrieve structured d
 Cons: Requires more setup and management overhead compared to other storage options, may be overkill for simple data storage needs.
 
 # App Demonstrating Storage Management:
+![80f00df907518f542c596d76596eed5](https://github.com/WendyRl/CSC545HW2/assets/80219810/fa63f841-c17d-4adc-9f2e-ee0acaf38df3)
+
 This Flutter application demonstrates the ability to save and load an image from local storage, store and load  user settings using SharedPreferences.
 ## Dart File Breakdown:
 ### Main Function and MyApp Class
